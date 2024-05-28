@@ -7,7 +7,7 @@
 
 import Foundation
 
-public class TestCocoaPods {
+public class TestCocoaPods123321 {
     public init() {}
     
     public func printHello() {

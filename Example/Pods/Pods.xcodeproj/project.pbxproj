@@ -10,9 +10,9 @@
 		0166129BB3A28527C96A19CE72570A5E /* TestCocoaPods-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 95D5FDA4BE882C28E7E011D9B7A8885B /* TestCocoaPods-dummy.m */; };
 		13B4106A43498D86B84905FF48C76BED /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
 		235B1CD7E845EF232CE92BA04DD8B5F8 /* Pods-TestCocoaPods_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 9F8DD346C19A2433FC83704B9C7C7270 /* Pods-TestCocoaPods_Tests-dummy.m */; };
-		4EC6DCF52C06120300723D54 /* TestCocoaPods.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EC6DCF42C06120300723D54 /* TestCocoaPods.swift */; };
-		4EC6DCF62C06120300723D54 /* TestCocoaPods.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EC6DCF42C06120300723D54 /* TestCocoaPods.swift */; };
-		4EC6DCF72C06120300723D54 /* TestCocoaPods.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EC6DCF42C06120300723D54 /* TestCocoaPods.swift */; };
+		4EC6DCF52C06120300723D54 /* TestCocoaPods123321.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EC6DCF42C06120300723D54 /* TestCocoaPods123321.swift */; };
+		4EC6DCF62C06120300723D54 /* TestCocoaPods123321.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EC6DCF42C06120300723D54 /* TestCocoaPods123321.swift */; };
+		4EC6DCF72C06120300723D54 /* TestCocoaPods123321.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EC6DCF42C06120300723D54 /* TestCocoaPods123321.swift */; };
 		6D1C837DEEAF03B6E881570E2D64B891 /* Pods-TestCocoaPods_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 7093B824F1B3608E2B48F847B6258EEF /* Pods-TestCocoaPods_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		74A151E68DB0BC3617C4BE78FA501A52 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
 		9704B97C8F838C8E68B26F346AC67CEC /* Pods-TestCocoaPods_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = CD7C5DDF1A35BAEDE1F97D33175540A9 /* Pods-TestCocoaPods_Example-dummy.m */; };
@@ -48,7 +48,7 @@
 		363651871E3A14FF37D98F9DA64D3D84 /* Pods-TestCocoaPods_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-TestCocoaPods_Tests.modulemap"; sourceTree = "<group>"; };
 		3C824693623422C83566B35D3062D763 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		441FD0B88FAF2744BA31664A185CC131 /* Pods-TestCocoaPods_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-TestCocoaPods_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
-		4EC6DCF42C06120300723D54 /* TestCocoaPods.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestCocoaPods.swift; sourceTree = "<group>"; };
+		4EC6DCF42C06120300723D54 /* TestCocoaPods123321.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestCocoaPods123321.swift; sourceTree = "<group>"; };
 		59F40D3E60C28F3AEA6A540C880B3EB4 /* TestCocoaPods.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = TestCocoaPods.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		5B2AFEF4D492808F3805C6D133D7518F /* Pods-TestCocoaPods_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-TestCocoaPods_Example.modulemap"; sourceTree = "<group>"; };
 		5CAAC0CB376697737F887E03796D4D08 /* TestCocoaPods.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = TestCocoaPods.release.xcconfig; sourceTree = "<group>"; };
@@ -113,7 +113,7 @@
 		4EC6DCF32C0611EB00723D54 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
-				4EC6DCF42C06120300723D54 /* TestCocoaPods.swift */,
+				4EC6DCF42C06120300723D54 /* TestCocoaPods123321.swift */,
 			);
 			path = Classes;
 			sourceTree = "<group>";
@@ -389,7 +389,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				235B1CD7E845EF232CE92BA04DD8B5F8 /* Pods-TestCocoaPods_Tests-dummy.m in Sources */,
-				4EC6DCF62C06120300723D54 /* TestCocoaPods.swift in Sources */,
+				4EC6DCF62C06120300723D54 /* TestCocoaPods123321.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -398,7 +398,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9704B97C8F838C8E68B26F346AC67CEC /* Pods-TestCocoaPods_Example-dummy.m in Sources */,
-				4EC6DCF52C06120300723D54 /* TestCocoaPods.swift in Sources */,
+				4EC6DCF52C06120300723D54 /* TestCocoaPods123321.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -407,7 +407,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0166129BB3A28527C96A19CE72570A5E /* TestCocoaPods-dummy.m in Sources */,
-				4EC6DCF72C06120300723D54 /* TestCocoaPods.swift in Sources */,
+				4EC6DCF72C06120300723D54 /* TestCocoaPods123321.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
